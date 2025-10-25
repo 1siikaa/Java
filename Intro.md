@@ -1,0 +1,4 @@
+What is java?
+Java is a high-level, object-oriented, class-based programming language developed by Sun Microsystems (now owned by Oracle). It is designed to be platform-independent using the concept of “Write Once, Run Anywhere” (WORA), meaning Java code is compiled into bytecode that runs on the Java Virtual Machine (JVM), regardless of the underlying operating system.
+
+Java supports key features such as encapsulation, inheritance, polymorphism, multithreading, automatic memory management (garbage collection), and a rich standard library, making it widely used for enterprise applications, Android development, cloud computing, and backend systems.
